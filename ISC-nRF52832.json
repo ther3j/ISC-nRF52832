@@ -14,13 +14,13 @@
             "architecture": "nRF52",
             "version": "1.6.1",
             "category": "Contributed",
-            "url": "https://www.dropbox.com/scl/fi/atu7xz29e3bzl1c7fqelq/ISC_nRF52832.bz2?rlkey=05pb58g5te5z13c73wfbm4tx1&st=ny48cu83&dl=1",
-            "archiveFileName": "ISC-nRF52832.tar.bz2",
-            "checksum": "C5C83620411C57165FB46E3BF14A92523924485EF79F7B8428BE969107E22414 ",
-            "size": "24,53,38,124",
+            "url": "https://www.dropbox.com/scl/fi/o0qmoeo2ks3s62hf62sz3/Indiesemic.tar.bz2?rlkey=1pdm63ofvdxwxgk0hv1pl766f&st=3mf5ce5p&dl=1",
+            "archiveFileName": "Indiesemic.tar.bz2",
+            "checksum": "9B26C27684CAA2187039B56700ECDF2E78C14C3E4C1366B57285CDBF5B27D343",
+            "size": "24,53,51,239",
             "boards": [
               {
-                "name": "Board file"
+                "name": "ISC-nRF52832"
               }
             ],
             "toolsDependencies": []
